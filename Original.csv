@@ -1,0 +1,14 @@
+project,task,start,end,Progress_%,comment,nombre
+Personal,Leer 1 libro,02/01/2022,5/15/2022,0,Uno de las mil y una noches creo,Peter
+Personal,Ver Hotel en Bariloche,1/20/2022,1/30/2022,0,,Peter
+Personal,Hacer deporte nuevamente,01/15/2022,1/19/2022,0,Ir a ver que gym se digne a tomarme,Peter
+Tesis,Escribir la tesis,4/01/2022,12/15/2022,0,Hacerlo con todo sino dpds lo dejas de lado,Peter
+Academico,Terminar lo de Pousa,1/3/2022,3/30/2022,0,Ver el TP1 y TP final,Peter
+Academico,Hacer el curso de DE,4/01/2022,6/30/2022,0,Averiguar de Git o de Plats,Peter
+Academico,Sacar 2 proyectos de DS,7/01/2022,12/30/2022,0,Estoy tentado a uno de NLP y otro mas simple y rapido,Peter
+Familiar,Averiguar nido de Fer,4/5/2022,6/25/2022,0,Prioridad,Peter
+Familiar,Sacar pasaje para ir a Lima,03/01/2022,04/01/2022,0,--,Peter
+Personal,Viajar,01/15/2022,1/19/2022,0,nothing to add,Martha
+Laboral,Cobrar mas,4/01/2022,12/15/2022,0,nothing to add,Martha
+Personal,Tomar leche,7/01/2022,12/30/2022,0,nothing to add,Fernanda
+Personal,dormir,4/5/2022,6/25/2022,0,nothing to add,Fernanda
